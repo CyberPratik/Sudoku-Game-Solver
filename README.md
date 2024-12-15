@@ -14,7 +14,7 @@ This repository contains a C++ implementation of a **Sudoku Solver**. It provide
    git clone https://github.com/CyberPratik/Sudoku-Game-Solver.git
 2. Navigate to the project directory:
    ```bash
-   cd sudoku-solver
+   cd Sudoku-Game-Solver
 3. Compile the code using a C++ compiler:
    ```bash
    g++ sudoku_solver.cpp -o sudoku_solver
