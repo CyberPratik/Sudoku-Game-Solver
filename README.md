@@ -22,15 +22,15 @@ This repository contains a C++ implementation of a **Sudoku Solver**. It provide
    ```bash
    ./sudoku_solver
 
-##How It Works
+## How It Works
 Uses recursion and backtracking to find the solution.
 Checks for valid placements of numbers in each cell before proceeding.
 Stops when a solution is found or confirms if the puzzle is unsolvable.
 
-##Applications
+## Applications
 Helps solve Sudoku puzzles quickly and efficiently.
 Can be extended or integrated into other projects like puzzle generators or mobile apps.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have ideas for improving the algorithm or adding features, feel free to open a pull request.
 
